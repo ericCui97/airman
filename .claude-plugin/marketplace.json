@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "airman",
+  "description": "AI 中文回复风格指南。Talk like an airman.",
+  "owner": {
+    "name": "cuiyirong",
+    "url": "https://github.com/cuiyirong"
+  },
+  "plugins": [
+    {
+      "name": "airman",
+      "description": "像飞行员通话一样回复：答案先行，废话删除，技术事实逐字保留。",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "airman",
+  "version": "0.1.0",
+  "description": "AI 中文回复风格指南。像飞行员通话一样回复：答案先行，废话删除，技术事实逐字保留。",
+  "author": {
+    "name": "cuiyirong",
+    "url": "https://github.com/cuiyirong"
+  },
+  "hooks": "./hooks/airman-hooks.json"
+}
